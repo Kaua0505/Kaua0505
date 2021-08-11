@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kaua0505
+
 - 👀 I’m interested in aprender
 - 🌱 I’m currently learning  python
 - 💞️ I’m looking to collaborate on ...
